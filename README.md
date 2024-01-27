@@ -83,7 +83,7 @@ Individual Tasks:
     				I found the card picture in this project: https://github.com/Medelouali/UNO-clone, and then I added Nottingham elements as the background with ps.
 
 
-​    		
+​    Dharani: 
 ​    
 ​    
 
