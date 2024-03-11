@@ -71,6 +71,9 @@ Individual Tasks:
     				For the reference, https://www.youtube.com/watch?v=7BXDcBfk-04, This is a video about how to make an uno game, although it is not a visual game, and it is not object-oriented coding. But after watching the video, I have a clear understanding of the complete uno process and what work I need to do.
     				I found the card picture in this project: https://github.com/Medelouali/UNO-clone, and then I added Nottingham elements as the background with ps.
 
+​    Dharani: 
+​    
+
 
 Rules Introduction (Game Logic) : 
 
@@ -81,12 +84,4 @@ Rules Introduction (Game Logic) :
                     card.number==14:wildCard
                     card.number==15:wild4Card
     
-    2. AI Logic: 
-
-
-
-
-​    Dharani: 
-​    
-​    
-
+    2. AI Logic:
