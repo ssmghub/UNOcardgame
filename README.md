@@ -1,14 +1,3 @@
-Rules Introduction (Game Logic) : 
-
-    1. Card Logic: Only two values are given to the card class: color and number. Instead of using class inheritance class, use special numbers over ten to represent function cards:
-                    card.number==11:reverseCard
-                    card.number==12:take2Card
-                    card.number==13:skipcard
-                    card.number==14:wildCard
-                    card.number==15:wild4Card
-    
-    2. AI Logic: 
-
 Individual Tasks: 
 
     Shuming Shi: （ROLE: Leader）
@@ -81,6 +70,20 @@ Individual Tasks:
     				
     				For the reference, https://www.youtube.com/watch?v=7BXDcBfk-04, This is a video about how to make an uno game, although it is not a visual game, and it is not object-oriented coding. But after watching the video, I have a clear understanding of the complete uno process and what work I need to do.
     				I found the card picture in this project: https://github.com/Medelouali/UNO-clone, and then I added Nottingham elements as the background with ps.
+
+
+Rules Introduction (Game Logic) : 
+
+    1. Card Logic: Only two values are given to the card class: color and number. Instead of using class inheritance class, use special numbers over ten to represent function cards:
+                    card.number==11:reverseCard
+                    card.number==12:take2Card
+                    card.number==13:skipcard
+                    card.number==14:wildCard
+                    card.number==15:wild4Card
+    
+    2. AI Logic: 
+
+
 
 
 ​    Dharani: 
